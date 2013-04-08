@@ -1,0 +1,89 @@
+/* Popup menu styles */
+body {
+  min-width: 100px;
+  overflow-x: hidden;
+  background-color:#F0F0F0;
+  font-family: "Verdana";
+  font-size: 15px;
+}
+
+.menuItem {
+  margin:0;
+  margin-bottom: 10px;
+  padding:5px;
+  text-align: center;
+  vertical-align: middle;
+  width: 120px;
+}
+
+.menuItem:hover {
+  background-color:white;
+}
+
+.box {
+  height: 20px;
+  width: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+#box1 {
+  background-color: red;
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 5px;
+}
+#box1:hover {
+  border: 2px solid black;
+}
+
+#box2 {
+  background-color: teal;
+  border-width: 2px;
+  border-style: solid;
+  border-color: teal;
+  border-radius: 5px;
+}
+#box2:hover {
+  border: 2px solid black;
+}
+
+#box3 {
+  background-color: yellow;
+  border-width: 2px;
+  border-style: solid;
+  border-color: yellow;
+  border-radius: 5px;
+}
+#box3:hover {
+  border: 2px solid black;
+}
+
+#box4 {
+  background-color: orange;
+  border-width: 2px;
+  border-style: solid;
+  border-color: orange;
+  border-radius: 5px;
+}
+#box4:hover {
+  border: 2px solid black;
+}
+
+#box5 {
+  background-color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #B0B0B0;
+  border-radius: 5px;
+}
+#box5:hover {
+  border: 2px solid black;
+}
+
+/*/* Highlighter styles */
+.crx_mouse_visited {
+  background-color: #bcd5eb;
+  outline: 1px solid #5166bb;
+}*/
